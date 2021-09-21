@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @samantalovecat
+- 👀 I’m interested in programming and crafts. 
+- 🌱 I’m currently learning HTML, CSS, JS all that good stuff.
